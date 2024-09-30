@@ -1,4 +1,4 @@
-[$\leftarrow$ Natrag na početnu](../../README.md#uvod-u-programiranje)
+[← Natrag na početnu](../../README.md#uvod-u-programiranje)
 
 # Uvod u programiranje
 
