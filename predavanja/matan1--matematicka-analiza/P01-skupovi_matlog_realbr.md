@@ -1,4 +1,4 @@
-[$\leftarrow$ Natrag na početnu](../../README.md#matematička-analiza-1)
+[← Natrag na početnu](../../README.md#matematička-analiza-1)
 
 # Skupovi, matematička logika, realni brojevi
 
@@ -54,7 +54,7 @@
 | $a, b, c, x, y, ...$                                              | Primjeri elemenata skupa |
 | $x \in S$                                                         | $x$ pripada skupu $S$    |
 | $A \subseteq B$                                                   | $A$ je podskup skupa $B$ |
-| $\empty$ ili $\{\}$                                               | Prazan skup              |
+| $\emptyset$ ili `{}`                                               | Prazan skup              |
 | $A \cup B, A \cap B, A \space\backslash\space B, A^C, A \times B$ | Operacije nad skupovima  |
 
 <hr>
@@ -173,7 +173,7 @@ Neka su $X$ i $Y$ sudovi, sljedeće formule su tautologije:
 
 #### Predikati
 
-Sjetimo se da izjava $x^2 + 1 > 5$ nije sud. Ukoliko **uvrstimo** $x \in \R$ dobiljemo sud
+Sjetimo se da izjava $x^2 + 1 > 5$ nije sud. Ukoliko **uvrstimo** $x \in \mathbb{R}$ dobiljemo sud
 
 |$x$|Sud|vrijednost suda|
 |---|:-:|:-------------:|
