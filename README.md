@@ -9,3 +9,5 @@
 ## Uvod u programiranje
 1. [Predavanje - Uvodni sat](predavanja/uup--uvod-u-programiranje/P01-uvodni_sat.md)
 
+### Pripreme za LV
+1. [Priprema - zadatci i riješenja](pripreme-za-lv/uup--uvod-u-programiranje/LV01/tekstovi_zadatka.md)
